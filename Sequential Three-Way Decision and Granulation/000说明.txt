@@ -1,0 +1,10 @@
+paper0_sample : 展示人脸图像
+paper1_ar ： 得到AR数据库上代价敏感三支和二支方法的代价矩阵
+paper1_PIE ： 得到PIE数据库上代价敏感三支和二支方法的代价矩阵
+paper2_recon_ar ： AR上人脸重构图
+paper2_recon_PIE ： PIE上人脸重构图
+paper9_min_err_excel ：画出高代价和低代价区域的表格 
+plot_boun ： 画两个数据库上边界域的图
+plot_error ：画两个数据库上错误率的图
+plot_fig_cost_ar ： AR数据库上总代价和误分类代价图
+plot_fig_cost_PIE ：  PIE数据库上总代价和误分类代价图
