@@ -1,0 +1,11 @@
+DBN_AR_Sequential.m: 主程序，得到序贯决策结果
+plot_DBN_AR_cost.m:绘制代价曲线（手动载入数据）
+plot_DBN_AR_error.m:绘制错误曲线（手动载入数据）
+    
+子程序
+Cost_Sequential_Setup();
+DBN_Setup();
+Get_DBN_Feature_data();
+Get_DBN_Feature_time();
+initial_label();
+result_adjust();
